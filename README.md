@@ -1,9 +1,10 @@
 # TemeFacultate
 
+# Tema1 POO:
+
 Albesteanu Horia-Teodor Grupa 262
 
-Tema1 POO:
-Cod pentru evidenta masinilor
+# Cod pentru evidenta masinilor
 
 Clasele Engine, Car și Garage: Programul definește trei clase principale:
 
